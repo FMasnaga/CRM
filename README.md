@@ -6,12 +6,17 @@
 The purpose of this app is to show CRUD(Create, Read, Update, Delete) operation using Spring MVC. 
 
 <h1>Screenshots</h1>
+<img src="https://github.com/FMasnaga/CRM/blob/master/img/customer%20list.png">
+<br/>
+<br/>
+<br/>
+<br/>
 <img src="https://github.com/FMasnaga/CRM/blob/master/img/add%20customer.png">
 <br/>
 <br/>
 <br/>
 <br/>
-<img src="https://github.com/FMasnaga/TodoApp/blob/master/img/update.png">
+<img src="https://github.com/FMasnaga/CRM/blob/master/img/add%20customer.png">
 
 
 <h1>Tech/framework used</h1>
