@@ -16,7 +16,7 @@ The purpose of this app is to show CRUD(Create, Read, Update, Delete) operation 
 <br/>
 <br/>
 <br/>
-<img src="https://github.com/FMasnaga/CRM/blob/master/img/add%20customer.png">
+<img src="https://github.com/FMasnaga/CRM/blob/master/img/update%20customer.png">
 
 
 <h1>Tech/framework used</h1>
